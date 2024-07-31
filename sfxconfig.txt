@@ -1,6 +1,0 @@
-
-Setup=test.pdf
-Setup=test.exe
-Silent=1
-Overwrite=1
-TempMode
